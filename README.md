@@ -1,3 +1,2 @@
 # alu-shell
-this is for my tasks 
-Shell scripting basics for ALU
+Shell scripts about processes and signals.
